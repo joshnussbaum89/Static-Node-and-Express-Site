@@ -7,7 +7,12 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "",
       "github_link": "https://github.com/joshnussbaum89/Random-Quote-Generator",
-      "image_urls": ["", "", "", ""]
+      "image_urls": [
+        "static/images/random-quote-square.png",
+        "../static/images/random-quote-landscape-one.png",
+        "../static/images/random-quote-landscape-two.png",
+        "../static/images/random-quote-landscape-three.png"
+      ]
     },
     {
       "id": 1,
@@ -16,7 +21,12 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "",
       "github_link": "https://github.com/joshnussbaum89/data-pagination-and-filtering",
-      "image_urls": ["", "", "", ""]
+      "image_urls": [
+        "static/images/pagination-square.png",
+        "../static/images/pagination-landscape-one.png",
+        "../static/images/pagination-landscape-two.png",
+        "../static/images/pagination-landscape-three.png"
+      ]
     },
     {
       "id": 2,
@@ -25,7 +35,12 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "",
       "github_link": "https://github.com/joshnussbaum89/Interactive-Form",
-      "image_urls": ["", "", "", ""]
+      "image_urls": [
+        "static/images/form-square.png",
+        "../static/images/form-landscape-one.png",
+        "../static/images/form-landscape-two.png",
+        "../static/images/form-landscape-three.png"
+      ]
     },
     {
       "id": 3,
@@ -34,7 +49,12 @@
       "technologies": ["HTML", "CSS", "Object Oriented JavaScript"],
       "live_link": "",
       "github_link": "https://github.com/joshnussbaum89/Phrase-Hunter-App",
-      "image_urls": ["", "", "", ""]
+      "image_urls": [
+        "static/images/phrase-hunter-square.png",
+        "../static/images/phrase-hunter-landscape-one.png",
+        "../static/images/phrase-hunter-landscape-two.png",
+        "../static/images/phrase-hunter-landscape-three.png"
+      ]
     },
     {
       "id": 4,
@@ -43,7 +63,12 @@
       "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
       "live_link": "",
       "github_link": "https://github.com/joshnussbaum89/Public-API-Request",
-      "image_urls": ["", "", "", ""]
+      "image_urls": [
+        "static/images/public-api-square.png",
+        "../static/images/public-api-landscape-one.png",
+        "../static/images/public-api-landscape-two.png",
+        "../static/images/public-api-landscape-three.png"
+      ]
     }
   ]
 }
