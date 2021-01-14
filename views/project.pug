@@ -14,14 +14,16 @@ block content
 
       .cell.portfolio-meta.small-6.medium-2.large-3
         h6 Technologies
-
+        
+        //- Loop through to dynamically add technogolies 
         ul
           each technology in technologies
             li= technology
 
         a.button.expanded(href=`${live_link}` target='_blank') Live Demo
         a.button.expanded(href=`${github_link}` target='_blank') GitHub Repo
-       
+    
+    //- Dynamically add image url for project that was clicked 
     img.image(src=`${image_urls[1]}`)
     img.image(src=`${image_urls[2]}`)
     img.image(src=`${image_urls[3]}`)
