@@ -5,7 +5,7 @@
       "project_name": "Random Quote Generator",
       "description": "This app produces a random quote either intervallically (every 10 seconds), or when the user clicks 'show another quote.' The background color also changes to a random color everytime the quote changes.",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "",
+      "live_link": "https://joshnussbaum.io/Random-Quote-Generator/",
       "github_link": "https://github.com/joshnussbaum89/Random-Quote-Generator",
       "image_urls": [
         "static/images/random-quote-square.png",
@@ -19,7 +19,7 @@
       "project_name": "Data Pagination and Filtering",
       "description": "This app illustrates the benefit of using pagination to limit the amount of items on a particular page. You can filter through student names and dynamically add or remove page buttons based on how many students are returned. Or, you can simply click on the available page buttons to search for a student.",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "",
+      "live_link": "https://joshnussbaum.io/data-pagination-and-filtering/",
       "github_link": "https://github.com/joshnussbaum89/data-pagination-and-filtering",
       "image_urls": [
         "static/images/pagination-square.png",
@@ -33,7 +33,7 @@
       "project_name": "Interactive Form",
       "description": "This form validates user input. It prohibits submission if the required fields are not filled out. The input border changes to green or red depending on whether the input is valid.",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "",
+      "live_link": "https://joshnussbaum.io/Interactive-Form/",
       "github_link": "https://github.com/joshnussbaum89/Interactive-Form",
       "image_urls": [
         "static/images/form-square.png",
@@ -47,7 +47,7 @@
       "project_name": "OOP Game Show App",
       "description": "Phrase Hunter generates a random movie quote. A user makes selections from their keyboard or clicks to match letters in phrase. The user has 5 misses available before GAME OVER!",
       "technologies": ["HTML", "CSS", "Object Oriented JavaScript"],
-      "live_link": "",
+      "live_link": "https://joshnussbaum.io/Phrase-Hunter-App/",
       "github_link": "https://github.com/joshnussbaum89/Phrase-Hunter-App",
       "image_urls": [
         "static/images/phrase-hunter-square.png",
@@ -61,7 +61,7 @@
       "project_name": "Public API Requests",
       "description": "The Public API app returns a list of random users from the Random User Generator API. You can search for users with the search bar at the top of the page. When a user is clicked, a modal is displayed to show their information. You can also toggle between users with the 'prev' and 'next' buttons, or close the modal with the 'X' button on the top right of the modal.",
       "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
-      "live_link": "",
+      "live_link": "https://joshnussbaum.io/Public-API-Request/",
       "github_link": "https://github.com/joshnussbaum89/Public-API-Request",
       "image_urls": [
         "static/images/public-api-square.png",
